@@ -6,9 +6,9 @@ Answers to Questions:
 1) How many articles are about G20 countries? Please show the number of articles for each individual country and those that have an overlap in talking about several countries.
 
 - only about ~230 articles were not sufficently associated with any of the g20 countries. 
-- ! [alt text](Figures/Screen Shot 2021-01-14 at 11.23.56 AM.png?raw=true)
+- ![country distribution](./Figures/Screen Shot 2021-01-14 at 11.23.56 AM.png?raw=true)
 - a good way to see overlap in talking about different countries is to see a heatmap. 
-! [alt text](Figures/Screen Shot 2021-01-14 at 11.38.39 AM.png?raw=true)
+![topic distribution](./Figures/Screen Shot 2021-01-14 at 11.38.39 AM.png?raw=true)
 
 Note that we’re interested in identifying all topics about these countries, and not just the ones that mention them by name
 What are the most common themes in each article section?
